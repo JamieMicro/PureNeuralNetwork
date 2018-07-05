@@ -5,7 +5,7 @@
 # If you plan on using your own data then modify the parameter "nnLayers" below based on your data and also
 # change the parameter "dataFilePath" to the path of your data file. Lastly, you must update the parameters
 # "featureColumns" and "answerColumn" to match the the feature columns in your data.
-# Email me at joliver81@gmail.com with any feedback or suggestions. Enjoy!
+# Email me at jamiemicro10@gmail.com with any feedback or suggestions. Enjoy!
 #############################################################################################################
 #############################################################################################################
 
